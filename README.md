@@ -5,6 +5,6 @@ Just a small cheater Tool for The Sims 4
 Source Code ist written for AutoHotKey
 
 
-License
+<h1>License</h1>
 
-The content of this repository is licensed under a Creative Commons License
+The content of this repository is licensed under the <b>GNU GENERAL PUBLIC LICENSE</b>
